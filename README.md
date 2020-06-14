@@ -17,6 +17,11 @@ Training the Model
 
 Evaluate the Model
 
+Check out my machine learning experiment on Azure ML Studio
+
+https://gallery.cortanaintelligence.com/Experiment/Experiment-created-on-6-14-2020-3
+
+
 
 
 
